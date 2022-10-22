@@ -10,4 +10,12 @@
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roymekonen&show_icons=true&theme=radical)
+## My Stats
+
+<img align="left" width="47%" height="250px" src="https://github-readme-stats.vercel.app/api?username=roymekonen&show_icons=true&theme=radical" />
+<img align="left" width="47%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roymekonen&layout=compact)](https://github.com/roymekonen/github-readme-stats" />
+
+## My Skills 
+<img alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
