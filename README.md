@@ -2,7 +2,7 @@
 
 -  I’m currently Software development student. 
 -  I am looking for full stack developer or frontend developer role.
--  How to reach me: Linkedin - [@roymekonen](https://www.linkedin.com/in/roy-mekonen-8b0620228/)
+-  Linkedin - [@roymekonen](https://www.linkedin.com/in/roy-mekonen-8b0620228/)
 
 
 ## My Skills 
