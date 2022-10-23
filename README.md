@@ -1,6 +1,6 @@
 # Hello, I'm Roy Mekonen ! 👋
 
--  I’m currently Software development student. 
+-  I’m currently software development student. 
 -  I am looking for full stack developer or frontend developer role.
 -  Linkedin - [@roymekonen](https://www.linkedin.com/in/roy-mekonen-8b0620228/)
 
